@@ -25,6 +25,19 @@ Component    | Quantity
 <iframe src="https://vanderbilt423.autodesk360.com/shares/public/SH56a43QTfd62c1cd968a10c07cebebbe913?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
-## Syringe Pump Assemble
+## Syringe Pump Assembly
+
 ![Image of Motor Mount on Aluminum Extrusion](/Syringe-Pump/Syringe Pump Assembly/IMG_1509.jpg)
+
 Motor Mount on Aluminum Extrusion
+
+
+![Image of Motor on Motor Mount](/Syringe-Pump/Syringe Pump Assembly/IMG_1512.jpg)
+
+Motor on Motor Mount
+
+
+![Image of Constructed Syringe Pump](/Syringe-Pump/Syringe Pump Assembly/IMG_1513.jpg)
+
+Completed Syringe Pump Assembly 
+
