@@ -9,7 +9,7 @@
 
 ![Electrical Diagram for Syringe Pump](/Syringe-Pump/Assets/WiringDiagram.jpg)
 
-Electrical Diagram Syringe Pump Wiring
+Electrical Diagram 
 
 
 ![Image of Wired Breadboard](/Syringe-Pump/Syringe Pump Assembly/IMG_1518.jpg)
